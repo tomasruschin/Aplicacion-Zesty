@@ -78,5 +78,7 @@
 	background: url(AjaxLoader.gif) no-repeat center center
 }
 .owl-carousel img{
-	margin-left: 0%;
-	height:50%;}
+	margin: 5%;
+
+	height:70%;
+width: 90%;}
